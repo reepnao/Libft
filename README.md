@@ -1,7 +1,7 @@
-# Libft
+# libft
 I'm creating my first library
 
-# libft
+# Libft
 Libft (42cursus) 2022-2023
 
 - Actual Status : finished.
